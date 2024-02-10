@@ -1,4 +1,5 @@
-#Bike Sales Dashboard
+Bike Sales Dashboard
+
 Overview
 Welcome to the Bike Owners Dashboard! This Excel project, created by Farda Ahmadli, provides a dynamic view of bike ownership trends, allowing you to explore key factors influencing bike purchases. With four interactive charts and handy filters, you can easily analyze data based on various criteria.
 
